@@ -1,0 +1,15 @@
+PODS:
+  - APParallaxHeader (0.1.6)
+  - SWTableViewCell (0.3.7)
+
+DEPENDENCIES:
+  - APParallaxHeader
+  - SWTableViewCell (~> 0.3.7)
+
+SPEC CHECKSUMS:
+  APParallaxHeader: 854bc48a2487ca12c702f8a236fec0d89cdac5c3
+  SWTableViewCell: 2a94aadc9d47b2b611fa064566bf57948b95b579
+
+PODFILE CHECKSUM: 55745f6c31cc4628a7f65ec616c6f579167859eb
+
+COCOAPODS: 1.0.1
